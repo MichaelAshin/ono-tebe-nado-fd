@@ -1,1 +1,1 @@
-Это одностраничный сайт онлайн-аукциона "Оно тебе надо".
+https://github.com/MichaelAshin/ono-tebe-nado-fd
